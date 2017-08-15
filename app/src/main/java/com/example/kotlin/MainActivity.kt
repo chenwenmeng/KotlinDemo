@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         operationString()
         val maxOf = maxOf(2, 10)
         Log.d("Cwm", maxOf.toString())
-        gatherData()
+        gatherData()//陈文梦
     }
 
     //两数求和
